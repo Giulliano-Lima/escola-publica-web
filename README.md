@@ -2,7 +2,7 @@
 
 Este projeto web foi desenvolvido para conscientizar e propor soluções para os desafios da saúde no ambiente escolar público brasileiro. O foco foi criar uma interface informativa e funcional que apresentasse problemas reais e caminhos para melhoria.
 
-## 👥 Participantes do grupo:
+### 👥 Participantes do grupo:
 Gabriel Tenório • Giulliano Rodrigues • José Rivaldo • Kevein Cardoso • Luiza Beatriz • Marcos Eduardo
 
 ### 🎨 Diferencial de Design
